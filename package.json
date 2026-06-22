@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "dotenv": "^17.4.2",
-    "jsdom": "^21.1.2"
-  }
-}
